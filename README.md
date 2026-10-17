@@ -10,10 +10,10 @@
 ```
 ``` 
 Usage:
-    python meal_macros.py                     # today
-    python meal_macros.py --date 2026-10-19   # a specific day
-    python meal_macros.py --headed            # show the browser (use once to >
-    python meal_macros.py --menu-file menu.txt --date 2026-10-19   # skip scra>
+    python sarvam-buildathon/meal_macros.py                     # today
+    python sarvam-buildathon/meal_macros.py --date 2026-10-19   # a specific day
+    python sarvam-buildathon/meal_macros.py --headed            # show the browser (use once to >
+    python sarvam-buildathon/meal_macros.py --menu-file menu.txt --date 2026-10-19   # skip scra>
 ```
 
 ## Output
