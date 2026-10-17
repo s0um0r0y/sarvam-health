@@ -1,6 +1,6 @@
 # Estimate a day's calories and macros from the IIIT-H mess menu using Sarvam
  
-- Breakfast comes from the Kadamba tab, lunch and dinner from the Yuktahar tab.
+- Breakfast comes from the Kadamba tab, lunch and dinner from the Yuktahar tab from https://dining.iiit.ac.in/menu where you can get insights like proteins, carbs and fat from the meals.
  
 Setup:
 ```
